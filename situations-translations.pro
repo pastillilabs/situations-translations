@@ -1,7 +1,7 @@
 TEMPLATE = aux
 
 OTHER_FILES += \
-    $$files($$PWD/*.ts, true) \
+    $$files($$PWD/src/*.ts, true) \
     .gitignore \
     AUTHORS \
     LICENSE \
