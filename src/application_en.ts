@@ -385,5 +385,9 @@ the app!</translation>
         <source>Are you sure to remove action: %1?</source>
         <translation>Are you sure to remove action: %1?</translation>
     </message>
+    <message id="name">
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
 </context>
 </TS>

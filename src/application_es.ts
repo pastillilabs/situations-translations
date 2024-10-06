@@ -385,5 +385,9 @@ califique la app!</translation>
         <source>Are you sure to remove action: %1?</source>
         <translation type="unfinished">Are you sure to remove action: %1?</translation>
     </message>
+    <message id="name">
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
 </context>
 </TS>

@@ -385,5 +385,9 @@ sovelluksen!</translation>
         <source>Are you sure to remove action: %1?</source>
         <translation>Haluatko varmasti poistaa toiminnon: %1?</translation>
     </message>
+    <message id="name">
+        <source>Name</source>
+        <translation>Nimi</translation>
+    </message>
 </context>
 </TS>
