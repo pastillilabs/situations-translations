@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name></name>
     <message id="nfc_name">
@@ -10,10 +10,6 @@
     <message id="nfc_description">
         <source>Use NFC tags to toggle situations</source>
         <translation type="unfinished">Use NFC tags to toggle situations</translation>
-    </message>
-    <message id="nfc_virtual">
-        <source>Virtual tag</source>
-        <translation type="unfinished">Virtual tag</translation>
     </message>
     <message id="nfc_no_tag">
         <source>Read NFC tag</source>

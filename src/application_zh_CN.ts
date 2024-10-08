@@ -144,10 +144,6 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
         <source>Action</source>
         <translation>操作</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>空</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -155,14 +151,6 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
     <message id="timeout">
         <source>Timeout</source>
         <translation>超时</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>小时</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>分钟</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -253,10 +241,6 @@ the app!</source>
         <source>Application data</source>
         <translation>应用程序数据</translation>
     </message>
-    <message id="properties">
-        <source>Properties</source>
-        <translation type="unfinished">Properties</translation>
-    </message>
     <message id="clone">
         <source>Clone</source>
         <translation type="unfinished">Clone</translation>
@@ -321,30 +305,6 @@ the app!</source>
         <source>Dark</source>
         <translation>深色</translation>
     </message>
-    <message id="on">
-        <source>On</source>
-        <translation>打开</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>关闭</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>在情景模式结束时</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>少于</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>多于</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>精确</translation>
-    </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>为了使用特性,你必须在系统设置中选择 Situations 作为默认辅助应用程序。</translation>
@@ -388,6 +348,42 @@ the app!</source>
     <message id="name">
         <source>Name</source>
         <translation type="unfinished">Name</translation>
+    </message>
+    <message id="situation_automatic">
+        <source>Automatic</source>
+        <translation type="unfinished">Automatic</translation>
+    </message>
+    <message id="situation_manual">
+        <source>Manual</source>
+        <translation type="unfinished">Manual</translation>
+    </message>
+    <message id="situation_timed">
+        <source>Timed</source>
+        <translation type="unfinished">Timed</translation>
+    </message>
+    <message id="situation_mode">
+        <source>Select mode</source>
+        <translation type="unfinished">Select mode</translation>
+    </message>
+    <message id="permissions_note">
+        <source>Some required permissions are not granted:</source>
+        <translation type="unfinished">Some required permissions are not granted:</translation>
+    </message>
+    <message id="situation_clone">
+        <source>%1 (Copy)</source>
+        <translation type="unfinished">%1 (Copy)</translation>
+    </message>
+    <message id="done">
+        <source>Done</source>
+        <translation type="unfinished">Done</translation>
+    </message>
+    <message id="importing">
+        <source>Importing</source>
+        <translation type="unfinished">Importing</translation>
+    </message>
+    <message id="exporting">
+        <source>Exporting</source>
+        <translation type="unfinished">Exporting</translation>
     </message>
 </context>
 </TS>

@@ -32,12 +32,12 @@
         <translation>Juoksemassa</translation>
     </message>
     <message id="activity_confidence">
-        <source>Confidence: %1%</source>
-        <translation>Varmuus: %1%</translation>
+        <source>%1% confidence</source>
+        <translation>%1% varmuus</translation>
     </message>
     <message id="activity_interval">
-        <source>Interval: %1 s</source>
-        <translation>Päivitysväli: %1 s</translation>
+        <source>%1s interval</source>
+        <translation>%1s päivitysväli</translation>
     </message>
 </context>
 </TS>

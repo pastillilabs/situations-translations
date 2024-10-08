@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<TS version="2.1" language="pt_BR">
 <context>
     <name></name>
     <message id="vibration_name">
@@ -10,22 +10,6 @@
     <message id="vibration_description">
         <source>Vibration setting</source>
         <translation>Configura a vibração</translation>
-    </message>
-    <message id="vibration_on">
-        <source>Always</source>
-        <translation type="unfinished">Always</translation>
-    </message>
-    <message id="vibration_off">
-        <source>Never</source>
-        <translation type="unfinished">Never</translation>
-    </message>
-    <message id="vibration_general">
-        <source>Only when sounds on</source>
-        <translation type="unfinished">Only when sounds on</translation>
-    </message>
-    <message id="vibration_silent">
-        <source>Only when silent</source>
-        <translation type="unfinished">Only when silent</translation>
     </message>
 </context>
 </TS>

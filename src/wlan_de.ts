@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de_DE">
+<TS version="2.1" language="de_DE">
 <context>
     <name></name>
     <message id="wlan_name">
@@ -8,8 +8,8 @@
         <translation>WLAN</translation>
     </message>
     <message id="wlan_description">
-        <source>WiFi State</source>
-        <translation type="unfinished">WiFi State setting</translation>
+        <source>WiFi state setting</source>
+        <translation type="unfinished">WiFi state setting</translation>
     </message>
 </context>
 </TS>

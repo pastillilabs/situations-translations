@@ -4,7 +4,7 @@
 <context>
     <name></name>
     <message id="volumenotifications_name">
-        <source>Notification Volume</source>
+        <source>Notifications Volume</source>
         <translation>Aviseringsvolym</translation>
     </message>
     <message id="volumenotifications_description">

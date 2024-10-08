@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name></name>
     <message id="btscan_name">
@@ -48,6 +48,7 @@
         <translation type="unfinished">
             <numerusform>%n minute</numerusform>
             <numerusform>%n minutes</numerusform>
+            <numerusform>%n minutes</numerusform>
         </translation>
     </message>
     <message id="btscan_method">
@@ -65,10 +66,6 @@
     <message id="btscan_method_any">
         <source>Any connection</source>
         <translation type="unfinished">Any connection</translation>
-    </message>
-    <message id="btscan_device">
-        <source>Device</source>
-        <translation type="unfinished">Device</translation>
     </message>
 </context>
 </TS>

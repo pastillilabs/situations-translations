@@ -11,17 +11,5 @@
         <source>Battery level</source>
         <translation type="unfinished">Battery level</translation>
     </message>
-    <message id="battery_remaining">
-        <source>%1% remaining</source>
-        <translation>%1% rimanente</translation>
-    </message>
-    <message id="battery_less_than_value">
-        <source>Less than %1% remaining</source>
-        <translation>Meno del %1%</translation>
-    </message>
-    <message id="battery_more_than_value">
-        <source>More than %1% remaining</source>
-        <translation>Più del %1%</translation>
-    </message>
 </context>
 </TS>

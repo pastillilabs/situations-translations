@@ -23,5 +23,9 @@
         <source>Copy to clipboard</source>
         <translation>Kopiera till urklipp</translation>
     </message>
+    <message id="filename">
+        <source>Filename</source>
+        <translation type="unfinished">Filename</translation>
+    </message>
 </context>
 </TS>

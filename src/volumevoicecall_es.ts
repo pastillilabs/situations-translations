@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name></name>
     <message id="volumevoicecall_name">
@@ -8,7 +8,7 @@
         <translation>Volumen de llamadas de voz</translation>
     </message>
     <message id="volumevoicecall_description">
-        <source>Voice Call Volume setting</source>
+        <source>Voice call volume setting</source>
         <translation>Ajuste del volumen de las llamadas de voz</translation>
     </message>
 </context>

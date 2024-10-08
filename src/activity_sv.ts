@@ -32,12 +32,12 @@
         <translation>Springande</translation>
     </message>
     <message id="activity_confidence">
-        <source>Confidence: %1%</source>
-        <translation>Förtroende: %1%</translation>
+        <source>%1% confidence</source>
+        <translation>%1% förtroende</translation>
     </message>
     <message id="activity_interval">
-        <source>Interval: %1 s</source>
-        <translation>Intervall: %1 s</translation>
+        <source>%1s interval</source>
+        <translation>%1s intervall</translation>
     </message>
 </context>
 </TS>

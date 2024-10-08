@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_cn">
+<TS version="2.1" language="zh_cn">
 <context>
     <name></name>
     <message id="smssend_name">
@@ -16,10 +16,6 @@
 
 Sent using Situations-application</source>
         <translation>使用 Situations 应用程序发送</translation>
-    </message>
-    <message id="smssend_recipient">
-        <source>%2, %1</source>
-        <translation>%2, %1</translation>
     </message>
     <message id="smssend_select_recipient">
         <source>Select recipient</source>

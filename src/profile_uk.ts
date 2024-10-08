@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="uk_UA">
+<TS version="2.1" language="uk_UA">
 <context>
     <name></name>
     <message id="profile_name">
@@ -8,24 +8,16 @@
         <translation> Звуковий профіль</translation>
     </message>
     <message id="profile_description">
-        <source>Profile</source>
+        <source>Active profile</source>
         <translation type="unfinished">Active profile</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>
         <translation>Тиша</translation>
     </message>
-    <message id="profile_beep">
-        <source>Beep</source>
-        <translation>&quot;Біп&quot;</translation>
-    </message>
     <message id="profile_vibrate">
         <source>Vibrate</source>
         <translation>Вібрація</translation>
-    </message>
-    <message id="profile_normal">
-        <source>Normal</source>
-        <translation>Звичайний</translation>
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>

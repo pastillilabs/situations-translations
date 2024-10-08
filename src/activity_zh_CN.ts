@@ -32,12 +32,12 @@
         <translation>跑步</translation>
     </message>
     <message id="activity_confidence">
-        <source>Confidence: %1%</source>
-        <translation>信任: %1%</translation>
+        <source>%1% confidence</source>
+        <translation>%1% 信任</translation>
     </message>
     <message id="activity_interval">
-        <source>Interval: %1 s</source>
-        <translation>间隔: %1 s</translation>
+        <source>%1s interval</source>
+        <translation>%1s 间隔</translation>
     </message>
 </context>
 </TS>

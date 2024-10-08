@@ -23,5 +23,9 @@
         <source>Copy to clipboard</source>
         <translation>Copiar en el portapapeles</translation>
     </message>
+    <message id="filename">
+        <source>Filename</source>
+        <translation type="unfinished">Filename</translation>
+    </message>
 </context>
 </TS>

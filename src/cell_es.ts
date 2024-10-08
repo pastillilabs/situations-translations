@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name></name>
     <message id="cell_name">
@@ -8,7 +8,7 @@
         <translation>Red celular</translation>
     </message>
     <message id="cell_description">
-        <source>Network Cells</source>
+        <source>Simple mobile network cell detection</source>
         <translation>Detección simple de red celular</translation>
     </message>
     <message id="cell_area_name">

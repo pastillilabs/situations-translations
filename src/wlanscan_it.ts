@@ -72,9 +72,5 @@
         <source>Any connection</source>
         <translation>Qualsiasi connessione</translation>
     </message>
-    <message id="wlanscan_network">
-        <source>Network</source>
-        <translation>Rete</translation>
-    </message>
 </context>
 </TS>

@@ -32,12 +32,12 @@
         <translation>Laufen</translation>
     </message>
     <message id="activity_confidence">
-        <source>Confidence: %1%</source>
-        <translation type="unfinished">Confidence: %1%</translation>
+        <source>%1% confidence</source>
+        <translation type="unfinished">%1% confidence</translation>
     </message>
     <message id="activity_interval">
-        <source>Interval: %1 s</source>
-        <translation type="unfinished">Interval: %1 s</translation>
+        <source>%1s interval</source>
+        <translation type="unfinished">%1s interval</translation>
     </message>
 </context>
 </TS>

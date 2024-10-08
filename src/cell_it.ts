@@ -8,7 +8,7 @@
         <translation>Celle di rete</translation>
     </message>
     <message id="cell_description">
-        <source>Network Cells</source>
+        <source>Simple mobile network cell detection</source>
         <translation type="unfinished">Simple mobile network cell detection</translation>
     </message>
     <message id="cell_area_name">

@@ -143,10 +143,6 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
         <source>Action</source>
         <translation>Åtgärd</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>Tom</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
     <message id="timeout">
         <source>Timeout</source>
         <translation>Timeout</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Timmar</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minuter</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -253,10 +241,6 @@ appen!</translation>
         <source>Application data</source>
         <translation>Programdata</translation>
     </message>
-    <message id="properties">
-        <source>Properties</source>
-        <translation type="unfinished">Properties</translation>
-    </message>
     <message id="clone">
         <source>Clone</source>
         <translation type="unfinished">Clone</translation>
@@ -321,30 +305,6 @@ appen!</translation>
         <source>Dark</source>
         <translation>Mörkt</translation>
     </message>
-    <message id="on">
-        <source>On</source>
-        <translation>På</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Av</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Vid situationens slut</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Mindre än</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Mer än</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Exakt</translation>
-    </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>För att använda den här funktionen måste Situations väljas som standardassistentprogram i systeminställningarna.</translation>
@@ -388,6 +348,42 @@ appen!</translation>
     <message id="name">
         <source>Name</source>
         <translation type="unfinished">Name</translation>
+    </message>
+    <message id="situation_automatic">
+        <source>Automatic</source>
+        <translation type="unfinished">Automatic</translation>
+    </message>
+    <message id="situation_manual">
+        <source>Manual</source>
+        <translation type="unfinished">Manual</translation>
+    </message>
+    <message id="situation_timed">
+        <source>Timed</source>
+        <translation type="unfinished">Timed</translation>
+    </message>
+    <message id="situation_mode">
+        <source>Select mode</source>
+        <translation type="unfinished">Select mode</translation>
+    </message>
+    <message id="permissions_note">
+        <source>Some required permissions are not granted:</source>
+        <translation type="unfinished">Some required permissions are not granted:</translation>
+    </message>
+    <message id="situation_clone">
+        <source>%1 (Copy)</source>
+        <translation type="unfinished">%1 (Copy)</translation>
+    </message>
+    <message id="done">
+        <source>Done</source>
+        <translation type="unfinished">Done</translation>
+    </message>
+    <message id="importing">
+        <source>Importing</source>
+        <translation type="unfinished">Importing</translation>
+    </message>
+    <message id="exporting">
+        <source>Exporting</source>
+        <translation type="unfinished">Exporting</translation>
     </message>
 </context>
 </TS>

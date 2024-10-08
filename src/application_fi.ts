@@ -143,10 +143,6 @@ Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi pai
         <source>Action</source>
         <translation>Toiminto</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>Tyhjä</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation>Valitse ikoni</translation>
@@ -154,14 +150,6 @@ Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi pai
     <message id="timeout">
         <source>Timeout</source>
         <translation>Ajastus</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Tunnit</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minuutit</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -253,10 +241,6 @@ sovelluksen!</translation>
         <source>Application data</source>
         <translation>Sovelluksen tiedot</translation>
     </message>
-    <message id="properties">
-        <source>Properties</source>
-        <translation>Ominaisuudet</translation>
-    </message>
     <message id="clone">
         <source>Clone</source>
         <translation>Luo kopio</translation>
@@ -321,30 +305,6 @@ sovelluksen!</translation>
         <source>Dark</source>
         <translation>Tumma</translation>
     </message>
-    <message id="on">
-        <source>On</source>
-        <translation>Päällä</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Pois päältä</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Tilanteen päättyessä</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Alle</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Yli</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Tasan</translation>
-    </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>Käyttääksesi tätä toimintoa, Situations tulee asettaa Avustajasovellukseksi laitteen asetuksissa.</translation>
@@ -388,6 +348,42 @@ sovelluksen!</translation>
     <message id="name">
         <source>Name</source>
         <translation>Nimi</translation>
+    </message>
+    <message id="situation_automatic">
+        <source>Automatic</source>
+        <translation>Automaattinen</translation>
+    </message>
+    <message id="situation_manual">
+        <source>Manual</source>
+        <translation>Manuaalinen</translation>
+    </message>
+    <message id="situation_timed">
+        <source>Timed</source>
+        <translation>Ajastettu</translation>
+    </message>
+    <message id="situation_mode">
+        <source>Select mode</source>
+        <translation>Valitse tila</translation>
+    </message>
+    <message id="permissions_note">
+        <source>Some required permissions are not granted:</source>
+        <translation>Joitain tarvittavia lupia puuttuu:</translation>
+    </message>
+    <message id="situation_clone">
+        <source>%1 (Copy)</source>
+        <translation>%1 (Kopio)</translation>
+    </message>
+    <message id="done">
+        <source>Done</source>
+        <translation>Valmis</translation>
+    </message>
+    <message id="importing">
+        <source>Importing</source>
+        <translation>Tiedostosta tuonti</translation>
+    </message>
+    <message id="exporting">
+        <source>Exporting</source>
+        <translation>Tiedostoon vienti</translation>
     </message>
 </context>
 </TS>

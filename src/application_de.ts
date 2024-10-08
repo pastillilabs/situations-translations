@@ -143,10 +143,6 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
         <source>Action</source>
         <translation>Aktion</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>leer</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
     <message id="timeout">
         <source>Timeout</source>
         <translation>Zeitüberschreitung</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Stunden</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minuten</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -251,11 +239,7 @@ die App!</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="properties">
-        <source>Properties</source>
-        <translation type="unfinished">Properties</translation>
+        <translation type="unfinished">Application data</translation>
     </message>
     <message id="clone">
         <source>Clone</source>
@@ -303,7 +287,7 @@ die App!</translation>
     </message>
     <message id="ok">
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message id="welcome6">
         <source>Now you&apos;re all set up!&lt;br&gt;&lt;br&gt;We wish you happy situations :)</source>
@@ -320,30 +304,6 @@ die App!</translation>
     <message id="theme_dark">
         <source>Dark</source>
         <translation>Dunkel</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>An</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Aus</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Am Ende der Situation</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Weniger als</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Mehr als</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Gleich</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
@@ -388,6 +348,42 @@ die App!</translation>
     <message id="name">
         <source>Name</source>
         <translation type="unfinished">Name</translation>
+    </message>
+    <message id="situation_automatic">
+        <source>Automatic</source>
+        <translation type="unfinished">Automatic</translation>
+    </message>
+    <message id="situation_manual">
+        <source>Manual</source>
+        <translation type="unfinished">Manual</translation>
+    </message>
+    <message id="situation_timed">
+        <source>Timed</source>
+        <translation type="unfinished">Timed</translation>
+    </message>
+    <message id="situation_mode">
+        <source>Select mode</source>
+        <translation type="unfinished">Select mode</translation>
+    </message>
+    <message id="permissions_note">
+        <source>Some required permissions are not granted:</source>
+        <translation type="unfinished">Some required permissions are not granted:</translation>
+    </message>
+    <message id="situation_clone">
+        <source>%1 (Copy)</source>
+        <translation type="unfinished">%1 (Copy)</translation>
+    </message>
+    <message id="done">
+        <source>Done</source>
+        <translation type="unfinished">Done</translation>
+    </message>
+    <message id="importing">
+        <source>Importing</source>
+        <translation type="unfinished">Importing</translation>
+    </message>
+    <message id="exporting">
+        <source>Exporting</source>
+        <translation type="unfinished">Exporting</translation>
     </message>
 </context>
 </TS>

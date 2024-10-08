@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
+<TS version="2.1" language="fr_FR">
 <context>
     <name></name>
     <message id="launch_name">
@@ -8,7 +8,7 @@
         <translation>Lancement d&apos;une application</translation>
     </message>
     <message id="launch_description">
-        <source>Launch</source>
+        <source>Open selected application</source>
         <translation type="unfinished">Open selected application</translation>
     </message>
     <message id="launch_select_application">
