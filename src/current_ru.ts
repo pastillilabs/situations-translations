@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name></name>
     <message id="current_name">
@@ -8,7 +8,7 @@
         <translation>Ситуация</translation>
     </message>
     <message id="current_description">
-        <source>Situation</source>
+        <source>Currently active situation</source>
         <translation type="unfinished">Currently active situation</translation>
     </message>
     <message id="current_invalid_situation">

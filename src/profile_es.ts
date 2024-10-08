@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name></name>
     <message id="profile_name">
@@ -8,24 +8,16 @@
         <translation>Perfil</translation>
     </message>
     <message id="profile_description">
-        <source>Profile</source>
+        <source>Active profile</source>
         <translation>Perfil activo</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>
         <translation>Silencio</translation>
     </message>
-    <message id="profile_beep">
-        <source>Beep</source>
-        <translation>Bip</translation>
-    </message>
     <message id="profile_vibrate">
         <source>Vibrate</source>
         <translation>Vibración</translation>
-    </message>
-    <message id="profile_normal">
-        <source>Normal</source>
-        <translation>Normal</translation>
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de_DE">
+<TS version="2.1" language="de_DE">
 <context>
     <name></name>
     <message id="mobilenetwork_name">
@@ -26,6 +26,10 @@
     <message id="mobilenetwork_2g">
         <source>2G</source>
         <translation>2G/GSM</translation>
+    </message>
+    <message id="mobilenetwork_off">
+        <source>Off</source>
+        <translation>Aus</translation>
     </message>
 </context>
 </TS>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.1" language="pl_PL">
 <context>
     <name></name>
     <message id="cell_name">
@@ -8,7 +8,7 @@
         <translation>Sieć komórkowa</translation>
     </message>
     <message id="cell_description">
-        <source>Network Cells</source>
+        <source>Simple mobile network cell detection</source>
         <translation type="unfinished">Simple mobile network cell detection</translation>
     </message>
     <message id="cell_area_name">
@@ -19,6 +19,7 @@
         <source>%n cell(s)</source>
         <translation>
             <numerusform>%n nadajnik</numerusform>
+            <numerusform>%n nadajniki</numerusform>
             <numerusform>%n nadajników</numerusform>
         </translation>
     </message>

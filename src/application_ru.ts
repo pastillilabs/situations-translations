@@ -143,10 +143,6 @@ Situations app uses the gathered location information locally and only to activa
         <source>Action</source>
         <translation type="unfinished">Action</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ Situations app uses the gathered location information locally and only to activa
     <message id="timeout">
         <source>Timeout</source>
         <translation type="unfinished">Timeout</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -320,30 +308,6 @@ the app!</translation>
     <message id="theme_dark">
         <source>Dark</source>
         <translation type="unfinished">Dark</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>Вкл.</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Выкл.</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation type="unfinished">At situation end</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Меньше чем</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Больше чем</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>

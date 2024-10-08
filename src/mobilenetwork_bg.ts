@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="bg_BG">
+<TS version="2.1" language="bg_BG">
 <context>
     <name></name>
     <message id="mobilenetwork_name">
@@ -26,6 +26,10 @@
     <message id="mobilenetwork_2g">
         <source>2G</source>
         <translation type="unfinished">2G</translation>
+    </message>
+    <message id="mobilenetwork_off">
+        <source>Off</source>
+        <translation>Изключено</translation>
     </message>
 </context>
 </TS>

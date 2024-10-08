@@ -143,10 +143,6 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
         <source>Action</source>
         <translation>Aktion</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>leer</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
     <message id="timeout">
         <source>Timeout</source>
         <translation>Zeitüberschreitung</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Stunden</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minuten</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -320,30 +308,6 @@ die App!</translation>
     <message id="theme_dark">
         <source>Dark</source>
         <translation>Dunkel</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>An</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Aus</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Am Ende der Situation</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Weniger als</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Mehr als</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Gleich</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>

@@ -144,10 +144,6 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
         <source>Action</source>
         <translation>操作</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>空</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -155,14 +151,6 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
     <message id="timeout">
         <source>Timeout</source>
         <translation>超时</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>小时</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>分钟</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -320,30 +308,6 @@ the app!</source>
     <message id="theme_dark">
         <source>Dark</source>
         <translation>深色</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>打开</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>关闭</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>在情景模式结束时</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>少于</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>多于</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>精确</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>

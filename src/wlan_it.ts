@@ -8,8 +8,8 @@
         <translation>Stato WiFi</translation>
     </message>
     <message id="wlan_description">
-        <source>WiFi State</source>
-        <translation type="unfinished">WiFi State setting</translation>
+        <source>WiFi state setting</source>
+        <translation type="unfinished">WiFi state setting</translation>
     </message>
 </context>
 </TS>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.1" language="pl_PL">
 <context>
     <name></name>
     <message id="screentimeout_name">
@@ -15,6 +15,7 @@
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekunda</numerusform>
+            <numerusform>%n sekundy</numerusform>
             <numerusform>%n sekund</numerusform>
         </translation>
     </message>
@@ -22,6 +23,7 @@
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuta</numerusform>
+            <numerusform>%n minuty</numerusform>
             <numerusform>%n minut</numerusform>
         </translation>
     </message>

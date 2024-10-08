@@ -66,9 +66,5 @@
         <source>Any connection</source>
         <translation>Qualsiasi connessione</translation>
     </message>
-    <message id="btscan_device">
-        <source>Device</source>
-        <translation>Dispositivo</translation>
-    </message>
 </context>
 </TS>

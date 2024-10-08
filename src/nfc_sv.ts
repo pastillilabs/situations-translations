@@ -11,10 +11,6 @@
         <source>Use NFC tags to toggle situations</source>
         <translation>Använd NFC-taggar för att växla situationer</translation>
     </message>
-    <message id="nfc_virtual">
-        <source>Virtual tag</source>
-        <translation>Virtuell tagg</translation>
-    </message>
     <message id="nfc_no_tag">
         <source>Read NFC tag</source>
         <translation>Läs NFC-tagg</translation>

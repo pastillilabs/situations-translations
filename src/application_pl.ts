@@ -142,24 +142,12 @@ Situations app uses the gathered location information locally and only to activa
         <source>Action</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="tab_actions">
@@ -317,30 +305,6 @@ the app!</source>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="default_assistant_description">

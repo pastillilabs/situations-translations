@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_cn">
+<TS version="2.1" language="zh_cn">
 <context>
     <name></name>
     <message id="btscan_name">
@@ -12,7 +12,7 @@
         <translation type="unfinished">Simple nearby bluetooth device detection</translation>
     </message>
     <message id="btscanpro_name">
-        <source>Bluetooth Devices</source>
+        <source>Bluetooth Devices Pro</source>
         <translation>蓝牙设备 Pro</translation>
     </message>
     <message id="btscanpro_description">
@@ -64,10 +64,6 @@
     <message id="btscan_method_any">
         <source>Any connection</source>
         <translation>任何连接</translation>
-    </message>
-    <message id="btscan_device">
-        <source>Device</source>
-        <translation>设备</translation>
     </message>
 </context>
 </TS>

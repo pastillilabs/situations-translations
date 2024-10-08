@@ -143,10 +143,6 @@ Situations app uses the gathered location information locally and only to activa
         <source>Action</source>
         <translation>Azione</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ Situations app uses the gathered location information locally and only to activa
     <message id="timeout">
         <source>Timeout</source>
         <translation>Timeout</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Ore</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minuti</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -320,30 +308,6 @@ valuta l&apos;app!</translation>
     <message id="theme_dark">
         <source>Dark</source>
         <translation>Scuro</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>On</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Off</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Alla fine</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Meno del</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Più del</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Esattamente</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>

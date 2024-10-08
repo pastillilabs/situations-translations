@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fi_FI">
+<TS version="2.1" language="fi_FI">
 <context>
     <name></name>
     <message id="time_name">
@@ -8,7 +8,7 @@
         <translation>Aika</translation>
     </message>
     <message id="time_description">
-        <source>Time</source>
+        <source>Current time and day</source>
         <translation>Nykyinen aika ja päivä</translation>
     </message>
     <message id="time_mo">

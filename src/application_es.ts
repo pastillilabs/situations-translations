@@ -143,10 +143,6 @@ La aplicación Situations utiliza la información de ubicación recopilada local
         <source>Action</source>
         <translation>Acción</translation>
     </message>
-    <message id="empty">
-        <source>Empty</source>
-        <translation>Vacío</translation>
-    </message>
     <message id="select_icon">
         <source>Select icon</source>
         <translation type="unfinished">Select icon</translation>
@@ -154,14 +150,6 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     <message id="timeout">
         <source>Timeout</source>
         <translation>Fuera de tiempo</translation>
-    </message>
-    <message id="timer_hours">
-        <source>Hours</source>
-        <translation>Horas</translation>
-    </message>
-    <message id="timer_minutes">
-        <source>Minutes</source>
-        <translation>Minutos</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -320,30 +308,6 @@ califique la app!</translation>
     <message id="theme_dark">
         <source>Dark</source>
         <translation>Oscuro</translation>
-    </message>
-    <message id="on">
-        <source>On</source>
-        <translation>On</translation>
-    </message>
-    <message id="off">
-        <source>Off</source>
-        <translation>Off</translation>
-    </message>
-    <message id="at_end">
-        <source>At situation end</source>
-        <translation>Al finalizar la situación</translation>
-    </message>
-    <message id="less_than">
-        <source>Less than</source>
-        <translation>Menor que</translation>
-    </message>
-    <message id="more_than">
-        <source>More than</source>
-        <translation>Mayor que</translation>
-    </message>
-    <message id="equals">
-        <source>Exactly</source>
-        <translation>Exactamente</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
