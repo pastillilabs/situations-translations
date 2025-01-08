@@ -145,7 +145,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="select_icon">
         <source>Select icon</source>
-        <translation type="unfinished">Select icon</translation>
+        <translation>Seleccionar icono</translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
@@ -347,23 +347,23 @@ califique la app!</translation>
     </message>
     <message id="name">
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nombre</translation>
     </message>
     <message id="situation_automatic">
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message id="situation_manual">
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message id="situation_timed">
         <source>Timed</source>
-        <translation type="unfinished">Timed</translation>
+        <translation>Temporizado</translation>
     </message>
     <message id="situation_mode">
         <source>Select mode</source>
-        <translation type="unfinished">Select mode</translation>
+        <translation>Seleccionar modo</translation>
     </message>
     <message id="permissions_note">
         <source>Some required permissions are not granted:</source>
