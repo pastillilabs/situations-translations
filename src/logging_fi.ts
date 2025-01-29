@@ -27,5 +27,13 @@
         <source>Filename</source>
         <translation>Tiedoston nimi</translation>
     </message>
+    <message id="clear_log_query">
+        <source>Are you sure you want to clear log?</source>
+        <translation>Haluatko varmasti tyhjentää kirjaukset?</translation>
+    </message>
+    <message id="copy_to_clipboard_done">
+        <source>Copy to clipboard done</source>
+        <translation>Kopiointi tehty</translation>
+    </message>
 </context>
 </TS>

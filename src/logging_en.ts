@@ -27,5 +27,13 @@
         <source>Filename</source>
         <translation></translation>
     </message>
+    <message id="clear_log_query">
+        <source>Are you sure you want to clear log?</source>
+        <translation>Are you sure you want to clear log?</translation>
+    </message>
+    <message id="copy_to_clipboard_done">
+        <source>Copy to clipboard done</source>
+        <translation>Copy to clipboard done</translation>
+    </message>
 </context>
 </TS>
