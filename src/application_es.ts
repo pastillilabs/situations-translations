@@ -5,7 +5,7 @@
     <name></name>
     <message id="situation_edit">
         <source>Edit situation</source>
-        <translation type="unfinished">Edit situation</translation>
+        <translation>Editar situación</translation>
     </message>
     <message id="export">
         <source>Export</source>
@@ -105,7 +105,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_query_default_assistant">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>Para utilizar esta función, se debe seleccionar Situactions como la aplicación asistente predeterminada en la configuración del sistema.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
@@ -117,7 +117,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_query_location_services">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location services must be enabled in system settings.</translation>
+        <translation>Para utilizar esta función, los servicios de ubicación deben estar habilitados en la configuración del sistema.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
@@ -207,7 +207,7 @@ califique la app!</translation>
     </message>
     <message id="application_locale">
         <source>Locale</source>
-        <translation type="unfinished">Locale</translation>
+        <translation>Lugar</translation>
     </message>
     <message id="settings">
         <source>Settings</source>
@@ -243,11 +243,11 @@ califique la app!</translation>
     </message>
     <message id="clone">
         <source>Clone</source>
-        <translation type="unfinished">Clone</translation>
+        <translation>Clonar</translation>
     </message>
     <message id="remove">
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Eliminar</translation>
     </message>
     <message id="situation_home">
         <source>At home</source>
@@ -287,7 +287,7 @@ califique la app!</translation>
     </message>
     <message id="ok">
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message id="welcome6">
         <source>Now you&apos;re all set up!&lt;br&gt;&lt;br&gt;We wish you happy situations :)</source>
@@ -295,7 +295,7 @@ califique la app!</translation>
     </message>
     <message id="theme_system">
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>Sistema</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
@@ -323,27 +323,27 @@ califique la app!</translation>
     </message>
     <message id="locale_system">
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>Sistema</translation>
     </message>
     <message id="uninstall_feature">
         <source>Are you sure to uninstall feature: %1?</source>
-        <translation type="unfinished">Are you sure to uninstall feature %1?</translation>
+        <translation>¿Está seguro de desinstalar la función %1?</translation>
     </message>
     <message id="uninstall">
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message id="remove_situation">
         <source>Are you sure to remove situation: %1?</source>
-        <translation type="unfinished">Are you sure to remove situation: %1?</translation>
+        <translation>¿Está seguro de desinstalar la situación: %1?</translation>
     </message>
     <message id="remove_condition">
         <source>Are you sure to remove condition: %1?</source>
-        <translation type="unfinished">Are you sure to remove condition: %1?</translation>
+        <translation>¿Está seguro de desinstalar la concición: %1?</translation>
     </message>
     <message id="remove_action">
         <source>Are you sure to remove action: %1?</source>
-        <translation type="unfinished">Are you sure to remove action: %1?</translation>
+        <translation>¿Está seguro de desinstalar la acción: %1?</translation>
     </message>
     <message id="name">
         <source>Name</source>
@@ -367,23 +367,23 @@ califique la app!</translation>
     </message>
     <message id="permissions_note">
         <source>Some required permissions are not granted:</source>
-        <translation type="unfinished">Some required permissions are not granted:</translation>
+        <translation>No se han otorgado algunos permisos requeridos:</translation>
     </message>
     <message id="situation_clone">
         <source>%1 (Copy)</source>
-        <translation type="unfinished">%1 (Copy)</translation>
+        <translation>%1 (Copiar)</translation>
     </message>
     <message id="done">
         <source>Done</source>
-        <translation type="unfinished">Done</translation>
+        <translation>Hecho</translation>
     </message>
     <message id="importing">
         <source>Importing</source>
-        <translation type="unfinished">Importing</translation>
+        <translation>Importando</translation>
     </message>
     <message id="exporting">
         <source>Exporting</source>
-        <translation type="unfinished">Exporting</translation>
+        <translation>Exportando</translation>
     </message>
 </context>
 </TS>

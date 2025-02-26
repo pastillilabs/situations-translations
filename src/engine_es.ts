@@ -17,7 +17,7 @@
     </message>
     <message id="notification_title_url">
         <source>Open URL:</source>
-        <translation type="unfinished">Open URL:</translation>
+        <translation>Abrir URL:</translation>
     </message>
     <message id="situation_name_separator">
         <source>, </source>

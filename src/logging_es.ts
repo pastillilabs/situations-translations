@@ -25,15 +25,15 @@
     </message>
     <message id="filename">
         <source>Filename</source>
-        <translation type="unfinished">Filename</translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message id="clear_log_query">
         <source>Are you sure you want to clear log?</source>
-        <translation type="unfinished">Are you sure you want to clear log?</translation>
+        <translation>¿Está seguro de querer borrar el registro?</translation>
     </message>
     <message id="copy_to_clipboard_done">
         <source>Copy to clipboard done</source>
-        <translation type="unfinished">Copy to clipboard done</translation>
+        <translation>Copiado en el portapapeles</translation>
     </message>
 </context>
 </TS>

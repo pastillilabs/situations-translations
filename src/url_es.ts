@@ -13,7 +13,7 @@
     </message>
     <message id="url">
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
 </context>
 </TS>
