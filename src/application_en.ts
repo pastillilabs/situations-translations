@@ -385,5 +385,89 @@ the app!</translation>
         <source>Exporting</source>
         <translation>Exporting</translation>
     </message>
+    <message id="icon">
+        <source>Icon</source>
+        <translation>Icon</translation>
+    </message>
+    <message id="clear">
+        <source>Clear</source>
+        <translation>Clear</translation>
+    </message>
+    <message id="icon_number">
+        <source>Icon %1</source>
+        <translation>Icon %1</translation>
+    </message>
+    <message id="install_plugin">
+        <source>Install %1</source>
+        <translation>Install %1</translation>
+    </message>
+    <message id="uninstall_plugin">
+        <source>Uninstall %1</source>
+        <translation>Uninstall %1</translation>
+    </message>
+    <message id="purchase_plugin_price">
+        <source>Purchase %1 %2</source>
+        <translation>Purchase %1 %2</translation>
+    </message>
+    <message id="plugin_item_number">
+        <source>%1 item %2</source>
+        <translation>%1 item %2</translation>
+    </message>
+    <message id="action_add">
+        <source>Add action</source>
+        <translation>Add action</translation>
+    </message>
+    <message id="condition_add">
+        <source>Add condition</source>
+        <translation>Add condition</translation>
+    </message>
+    <message id="back">
+        <source>Back</source>
+        <translation>Back</translation>
+    </message>
+    <message id="menu">
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message id="situation_activate">
+        <source>Activate situation</source>
+        <translation>Activate situation</translation>
+    </message>
+    <message id="situation_deactivate">
+        <source>Deactivate situation</source>
+        <translation>Deactivate situation</translation>
+    </message>
+    <message id="situation_settings">
+        <source>Situation settings</source>
+        <translation>Situation settings</translation>
+    </message>
+    <message id="situation_add">
+        <source>Add situation</source>
+        <translation>Add situation</translation>
+    </message>
+    <message id="welcome1_accessible">
+        <source>Welcome to the Situations application!</source>
+        <translation>Welcome to the Situations application!</translation>
+    </message>
+    <message id="welcome2_accessible">
+        <source>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
+        <translation>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</translation>
+    </message>
+    <message id="welcome4_accessible">
+        <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>
+        <translation>Lets set up some default situations next. You can customize them later to better suit your individual needs.</translation>
+    </message>
+    <message id="welcome5_accessible">
+        <source>Choose your defaults</source>
+        <translation>Choose your defaults</translation>
+    </message>
+    <message id="welcome6_accessible">
+        <source>Now you&apos;re all set up! We wish you happy situations!</source>
+        <translation>Now you&apos;re all set up! We wish you happy situations!</translation>
+    </message>
+    <message id="close">
+        <source>Close</source>
+        <translation>Close</translation>
+    </message>
 </context>
 </TS>

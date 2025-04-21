@@ -385,5 +385,89 @@ appen!</translation>
         <source>Exporting</source>
         <translation type="unfinished">Exporting</translation>
     </message>
+    <message id="icon">
+        <source>Icon</source>
+        <translation type="unfinished">Icon</translation>
+    </message>
+    <message id="clear">
+        <source>Clear</source>
+        <translation type="unfinished">Clear</translation>
+    </message>
+    <message id="icon_number">
+        <source>Icon %1</source>
+        <translation type="unfinished">Icon %1</translation>
+    </message>
+    <message id="install_plugin">
+        <source>Install %1</source>
+        <translation type="unfinished">Install %1</translation>
+    </message>
+    <message id="uninstall_plugin">
+        <source>Uninstall %1</source>
+        <translation type="unfinished">Uninstall %1</translation>
+    </message>
+    <message id="purchase_plugin_price">
+        <source>Purchase %1 %2</source>
+        <translation type="unfinished">Purchase %1 %2</translation>
+    </message>
+    <message id="plugin_item_number">
+        <source>%1 item %2</source>
+        <translation type="unfinished">%1 item %2</translation>
+    </message>
+    <message id="action_add">
+        <source>Add action</source>
+        <translation type="unfinished">Add action</translation>
+    </message>
+    <message id="condition_add">
+        <source>Add condition</source>
+        <translation type="unfinished">Add condition</translation>
+    </message>
+    <message id="back">
+        <source>Back</source>
+        <translation type="unfinished">Back</translation>
+    </message>
+    <message id="menu">
+        <source>Menu</source>
+        <translation type="unfinished">Menu</translation>
+    </message>
+    <message id="situation_activate">
+        <source>Activate situation</source>
+        <translation type="unfinished">Activate situation</translation>
+    </message>
+    <message id="situation_deactivate">
+        <source>Deactivate situation</source>
+        <translation type="unfinished">Deactivate situation</translation>
+    </message>
+    <message id="situation_settings">
+        <source>Situation settings</source>
+        <translation type="unfinished">Situation settings</translation>
+    </message>
+    <message id="situation_add">
+        <source>Add situation</source>
+        <translation type="unfinished">Add situation</translation>
+    </message>
+    <message id="welcome1_accessible">
+        <source>Welcome to the Situations application!</source>
+        <translation type="unfinished">Welcome to the Situations application!</translation>
+    </message>
+    <message id="welcome2_accessible">
+        <source>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
+        <translation type="unfinished">This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</translation>
+    </message>
+    <message id="welcome4_accessible">
+        <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>
+        <translation type="unfinished">Lets set up some default situations next. You can customize them later to better suit your individual needs.</translation>
+    </message>
+    <message id="welcome5_accessible">
+        <source>Choose your defaults</source>
+        <translation type="unfinished">Choose your defaults</translation>
+    </message>
+    <message id="welcome6_accessible">
+        <source>Now you&apos;re all set up! We wish you happy situations!</source>
+        <translation type="unfinished">Now you&apos;re all set up! We wish you happy situations!</translation>
+    </message>
+    <message id="close">
+        <source>Close</source>
+        <translation type="unfinished">Close</translation>
+    </message>
 </context>
 </TS>

@@ -385,5 +385,89 @@ sovelluksen!</translation>
         <source>Exporting</source>
         <translation>Tiedostoon vienti</translation>
     </message>
+    <message id="icon">
+        <source>Icon</source>
+        <translation>Kuvake</translation>
+    </message>
+    <message id="clear">
+        <source>Clear</source>
+        <translation>Tyhjennä</translation>
+    </message>
+    <message id="icon_number">
+        <source>Icon %1</source>
+        <translation>Kuvake %1</translation>
+    </message>
+    <message id="install_plugin">
+        <source>Install %1</source>
+        <translation>Asenna %1</translation>
+    </message>
+    <message id="uninstall_plugin">
+        <source>Uninstall %1</source>
+        <translation>Poista %1</translation>
+    </message>
+    <message id="purchase_plugin_price">
+        <source>Purchase %1 %2</source>
+        <translation>Osta %1 %2</translation>
+    </message>
+    <message id="plugin_item_number">
+        <source>%1 item %2</source>
+        <translation>%1 kohta %2</translation>
+    </message>
+    <message id="action_add">
+        <source>Add action</source>
+        <translation>Lisää toiminto</translation>
+    </message>
+    <message id="condition_add">
+        <source>Add condition</source>
+        <translation>Lisää ehto</translation>
+    </message>
+    <message id="back">
+        <source>Back</source>
+        <translation>Takaisin</translation>
+    </message>
+    <message id="menu">
+        <source>Menu</source>
+        <translation>Valikko</translation>
+    </message>
+    <message id="situation_activate">
+        <source>Activate situation</source>
+        <translation>Laita tilanne päälle</translation>
+    </message>
+    <message id="situation_deactivate">
+        <source>Deactivate situation</source>
+        <translation>Laita tilanne pois päältä</translation>
+    </message>
+    <message id="situation_settings">
+        <source>Situation settings</source>
+        <translation>Tilanteen asetukset</translation>
+    </message>
+    <message id="situation_add">
+        <source>Add situation</source>
+        <translation>lisää tilanne</translation>
+    </message>
+    <message id="welcome1_accessible">
+        <source>Welcome to the Situations application!</source>
+        <translation>Tervetuloa käyttämään Tilanteet sovellusta!</translation>
+    </message>
+    <message id="welcome2_accessible">
+        <source>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
+        <translation>Tällä sovelluksella voit automatisoida laitteesi toimintaa määrittelemällä Tilanteita, eli Mitä tapahtuu ja Milloin. Tilanteilla voit esimerkiksi varmistaa että puhelin on aina hiljaa palavereissa ja öisin. Tai vaikkapa käynnistää musiikkisoittimen automaattisesti kuulokkeita kytkiessäsi.</translation>
+    </message>
+    <message id="welcome4_accessible">
+        <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>
+        <translation>Seuraavaksi voisimme luoda muutamia oletustilanteita. Voit muuttaa niitä myöhemmin omien tarpeidesi mukaan.</translation>
+    </message>
+    <message id="welcome5_accessible">
+        <source>Choose your defaults</source>
+        <translation>Valitse luotavat tilanteet</translation>
+    </message>
+    <message id="welcome6_accessible">
+        <source>Now you&apos;re all set up! We wish you happy situations!</source>
+        <translation>Valmista tuli! Toivotamme sinulle hyviä Tilanteita!</translation>
+    </message>
+    <message id="close">
+        <source>Close</source>
+        <translation>Sulje</translation>
+    </message>
 </context>
 </TS>
