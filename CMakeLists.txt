@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.27)
 
-set(TARGET_NAME translations)
+set(TARGET_NAME Translations)
 
 project(${APP_NAME}${TARGET_NAME} LANGUAGES CXX)
 
