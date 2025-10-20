@@ -325,6 +325,10 @@ sovelluksen!</translation>
         <source>System</source>
         <translation>Järjestelmä</translation>
     </message>
+    <message id="plugin_settings">
+        <source>%1 Settings</source>
+        <translation>%1 Asetukset</translation>
+    </message>
     <message id="uninstall_feature">
         <source>Are you sure to uninstall feature: %1?</source>
         <translation>Haluatko varmasti poistaa ominaisuuden: %1?</translation>
@@ -388,6 +392,10 @@ sovelluksen!</translation>
     <message id="icon">
         <source>Icon</source>
         <translation>Kuvake</translation>
+    </message>
+    <message id="delay_milliseconds">
+        <source>Delay (ms)</source>
+        <translation>Viive (ms)</translation>
     </message>
     <message id="clear">
         <source>Clear</source>
@@ -468,6 +476,10 @@ sovelluksen!</translation>
     <message id="close">
         <source>Close</source>
         <translation>Sulje</translation>
+    </message>
+    <message id="filter_milliseconds">
+        <source>Filter (ms)</source>
+        <translation>Suodatus (ms)</translation>
     </message>
 </context>
 </TS>

@@ -325,6 +325,10 @@ the app!</translation>
         <source>System</source>
         <translation type="unfinished">System</translation>
     </message>
+    <message id="plugin_settings">
+        <source>%1 Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="uninstall_feature">
         <source>Are you sure to uninstall feature: %1?</source>
         <translation type="unfinished">Are you sure to uninstall feature %1?</translation>
@@ -388,6 +392,10 @@ the app!</translation>
     <message id="icon">
         <source>Icon</source>
         <translation type="unfinished">Icon</translation>
+    </message>
+    <message id="delay_milliseconds">
+        <source>Delay (ms)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message id="clear">
         <source>Clear</source>
@@ -468,6 +476,10 @@ the app!</translation>
     <message id="close">
         <source>Close</source>
         <translation type="unfinished">Close</translation>
+    </message>
+    <message id="filter_milliseconds">
+        <source>Filter (ms)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
