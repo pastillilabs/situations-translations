@@ -47,7 +47,7 @@
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuutti</numerusform>
-            <numerusform>%n minuuuttia</numerusform>
+            <numerusform>%n minuuttia</numerusform>
         </translation>
     </message>
     <message id="wlanscan_scan_always">
