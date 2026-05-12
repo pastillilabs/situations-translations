@@ -15,6 +15,10 @@
         <source>Dual</source>
         <translation>Dupla</translation>
     </message>
+    <message id="mobilenetwork_5g">
+        <source>5G</source>
+        <translation>5G</translation>
+    </message>
     <message id="mobilenetwork_4g">
         <source>4G</source>
         <translation>4G</translation>
