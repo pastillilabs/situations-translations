@@ -417,6 +417,14 @@ sovelluksen!</translation>
         <source>Purchase %1 %2</source>
         <translation>Osta %1 %2</translation>
     </message>
+    <message id="action_stateful">
+        <source>Action remembers previous state</source>
+        <translation>Toiminto muistaa edellisen tilan</translation>
+    </message>
+    <message id="action_stateless">
+        <source>Action runs once</source>
+        <translation>Toiminto ajetaan kerran</translation>
+    </message>
     <message id="plugin_item_number">
         <source>%1 item %2</source>
         <translation>%1 kohta %2</translation>

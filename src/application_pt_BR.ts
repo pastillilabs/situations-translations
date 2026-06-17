@@ -417,6 +417,14 @@ the app!</source>
         <source>Purchase %1 %2</source>
         <translation type="unfinished">Purchase %1 %2</translation>
     </message>
+    <message id="action_stateful">
+        <source>Action remembers previous state</source>
+        <translation type="unfinished">Action remembers previous state</translation>
+    </message>
+    <message id="action_stateless">
+        <source>Action runs once</source>
+        <translation type="unfinished">Action runs once</translation>
+    </message>
     <message id="plugin_item_number">
         <source>%1 item %2</source>
         <translation type="unfinished">%1 item %2</translation>
