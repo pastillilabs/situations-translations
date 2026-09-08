@@ -119,6 +119,10 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
         <source>To use this feature, location services must be enabled in system settings.</source>
         <translation>För att använda denna funktion måste platstjänster vara aktiverat i systeminställningarna.</translation>
     </message>
+    <message id="permission_call_screening_service">
+        <source>Please set Situations as a call screening application.</source>
+        <translation type="unfinished">Please set Situations as a call screening application.</translation>
+    </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
         <translation>Tid och plats</translation>

@@ -119,6 +119,10 @@ Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi pai
         <source>To use this feature, location services must be enabled in system settings.</source>
         <translation>Tämä ominausuus vaatii toimiakseen paikannuksen päälle laittamisen laitteen asetuksissa.</translation>
     </message>
+    <message id="permission_call_screening_service">
+        <source>Please set Situations as a call screening application.</source>
+        <translation>Sovellus tarvitsee oikeuden toimia soittojen suodattimena.</translation>
+    </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
         <translation>Aika ja Paikka</translation>

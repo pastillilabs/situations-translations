@@ -119,6 +119,10 @@ La aplicación Situations utiliza la información de ubicación recopilada local
         <source>To use this feature, location services must be enabled in system settings.</source>
         <translation>Para utilizar esta función, los servicios de ubicación deben estar habilitados en la configuración del sistema.</translation>
     </message>
+    <message id="permission_call_screening_service">
+        <source>Please set Situations as a call screening application.</source>
+        <translation type="unfinished">Please set Situations as a call screening application.</translation>
+    </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
         <translation>Tiempo y ubicación</translation>

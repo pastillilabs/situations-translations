@@ -120,6 +120,10 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
         <source>To use this feature, location services must be enabled in system settings.</source>
         <translation type="unfinished">To use this feature, location services must be enabled in system settings.</translation>
     </message>
+    <message id="permission_call_screening_service">
+        <source>Please set Situations as a call screening application.</source>
+        <translation type="unfinished">Please set Situations as a call screening application.</translation>
+    </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
         <translation>时间和位置</translation>

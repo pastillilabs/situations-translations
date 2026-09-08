@@ -119,6 +119,10 @@ Situations app uses the gathered location information locally and only to activa
         <source>To use this feature, location services must be enabled in system settings.</source>
         <translation type="unfinished">To use this feature, location services must be enabled in system settings.</translation>
     </message>
+    <message id="permission_call_screening_service">
+        <source>Please set Situations as a call screening application.</source>
+        <translation type="unfinished">Please set Situations as a call screening application.</translation>
+    </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
         <translation>Data e posizione</translation>
