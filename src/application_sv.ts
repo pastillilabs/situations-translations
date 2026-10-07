@@ -309,6 +309,14 @@ appen!</translation>
         <source>Dark</source>
         <translation>Mörkt</translation>
     </message>
+    <message id="startup_type_boot">
+        <source>After boot</source>
+        <translation type="unfinished">After boot</translation>
+    </message>
+    <message id="startup_type_any">
+        <source>At any time</source>
+        <translation type="unfinished">At any time</translation>
+    </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>För att använda den här funktionen måste Situations väljas som standardassistentprogram i systeminställningarna.</translation>
@@ -512,6 +520,14 @@ appen!</translation>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
         <translation>VARNING! Bakgrundstjänsten kommer att köras med root-privilegier. Fortsätt på egen risk!</translation>
+    </message>
+    <message id="startup">
+        <source>Startup</source>
+        <translation type="unfinished">Startup</translation>
+    </message>
+    <message id="startup_type">
+        <source>Type</source>
+        <translation type="unfinished">Type</translation>
     </message>
 </context>
 </TS>

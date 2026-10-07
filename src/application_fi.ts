@@ -309,6 +309,14 @@ sovelluksen!</translation>
         <source>Dark</source>
         <translation>Tumma</translation>
     </message>
+    <message id="startup_type_boot">
+        <source>After boot</source>
+        <translation>Laitteen käynnistyttyä</translation>
+    </message>
+    <message id="startup_type_any">
+        <source>At any time</source>
+        <translation>Milloin tahansa</translation>
+    </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>Käyttääksesi tätä toimintoa, Situations tulee asettaa Avustajasovellukseksi laitteen asetuksissa.</translation>
@@ -512,6 +520,14 @@ sovelluksen!</translation>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
         <translation>VAROITUS: Taustasovellusta ajetaan pääkäyttäjän oikeuksilla. Jatka omalla vastuulla!</translation>
+    </message>
+    <message id="startup">
+        <source>Startup</source>
+        <translation>Sovelluksen käynnistys</translation>
+    </message>
+    <message id="startup_type">
+        <source>Type</source>
+        <translation>Tyyppi</translation>
     </message>
 </context>
 </TS>
