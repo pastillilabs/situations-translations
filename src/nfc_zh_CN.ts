@@ -19,13 +19,13 @@
         <source>Name the tag</source>
         <translation>命名标签</translation>
     </message>
-    <message id="nfc_power_title">
-        <source>NFC not enabled</source>
-        <translation>未开启NFC</translation>
+    <message id="nfc_virtual_tag">
+        <source>Virtual tag</source>
+        <translation type="unfinished">Virtual tag</translation>
     </message>
-    <message id="nfc_power_description">
-        <source>To use NFC it must be enabled in device settings.</source>
-        <translation>如果想要使用NFC，请先在系统设置开启。</translation>
+    <message id="nfc_turn_on_nfc">
+        <source>Turn on NFC</source>
+        <translation type="unfinished">Turn on NFC</translation>
     </message>
 </context>
 </TS>

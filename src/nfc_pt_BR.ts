@@ -19,13 +19,13 @@
         <source>Name the tag</source>
         <translation>Nomear a etiqueta</translation>
     </message>
-    <message id="nfc_power_title">
-        <source>NFC not enabled</source>
-        <translation>NFC não ativado</translation>
+    <message id="nfc_virtual_tag">
+        <source>Virtual tag</source>
+        <translation type="unfinished">Virtual tag</translation>
     </message>
-    <message id="nfc_power_description">
-        <source>To use NFC it must be enabled in device settings.</source>
-        <translation>Para usar NFC ele deve estar ativado nas opções do aparelho.</translation>
+    <message id="nfc_turn_on_nfc">
+        <source>Turn on NFC</source>
+        <translation type="unfinished">Turn on NFC</translation>
     </message>
 </context>
 </TS>

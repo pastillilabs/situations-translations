@@ -19,13 +19,13 @@
         <source>Name the tag</source>
         <translation>Anna tunnisteelle nimi</translation>
     </message>
-    <message id="nfc_power_title">
-        <source>NFC not enabled</source>
-        <translation>NFC ei ole päällä</translation>
+    <message id="nfc_virtual_tag">
+        <source>Virtual tag</source>
+        <translation>Virtuaalinen tunniste</translation>
     </message>
-    <message id="nfc_power_description">
-        <source>To use NFC it must be enabled in device settings.</source>
-        <translation>NFC täytyy aktivoida laitteen asetuksista jotta sitä voidaan käyttää.</translation>
+    <message id="nfc_turn_on_nfc">
+        <source>Turn on NFC</source>
+        <translation>NFC päälle</translation>
     </message>
 </context>
 </TS>
