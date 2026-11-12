@@ -5,7 +5,7 @@
     <name></name>
     <message id="as_root">
         <source>As root user</source>
-        <translation type="unfinished">As root user</translation>
+        <translation>Como usuario root</translation>
     </message>
     <message id="at_end">
         <source>At situation end</source>

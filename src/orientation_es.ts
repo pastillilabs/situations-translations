@@ -5,35 +5,35 @@
     <name></name>
     <message id="orientation_topup">
         <source>Top up</source>
-        <translation type="unfinished">Top up</translation>
+        <translation>Parte superior hacia arriba</translation>
     </message>
     <message id="orientation_topdown">
         <source>Top down</source>
-        <translation type="unfinished">Top down</translation>
+        <translation>Parte superior hacia abajo</translation>
     </message>
     <message id="orientation_leftup">
         <source>Left up</source>
-        <translation type="unfinished">Left up</translation>
+        <translation>Lado izquierdo hacia arriba</translation>
     </message>
     <message id="orientation_rightup">
         <source>Right up</source>
-        <translation type="unfinished">Right up</translation>
+        <translation>Lado derecho hacia arriba</translation>
     </message>
     <message id="orientation_facup">
         <source>Face up</source>
-        <translation type="unfinished">Face up</translation>
+        <translation>Boca arriba</translation>
     </message>
     <message id="orientation_facdown">
         <source>Face down</source>
-        <translation type="unfinished">Face down</translation>
+        <translation>Boca abajo</translation>
     </message>
     <message id="orientation_name">
         <source>Orientation</source>
-        <translation type="unfinished">Orientation</translation>
+        <translation>Orientación</translation>
     </message>
     <message id="orientation_description">
         <source>Device orientation</source>
-        <translation type="unfinished">Device orientation</translation>
+        <translation>Orientación del dispositivo</translation>
     </message>
 </context>
 </TS>

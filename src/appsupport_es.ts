@@ -5,11 +5,11 @@
     <name></name>
     <message id="appsupport_name">
         <source>AppSupport State</source>
-        <translation type="unfinished">AppSupport State</translation>
+        <translation>Estado de soporte de la aplicación</translation>
     </message>
     <message id="appsupport_description">
         <source>AppSupport state setting</source>
-        <translation type="unfinished">AppSupport State setting</translation>
+        <translation>Configuración del estado de soporte de la aplicación</translation>
     </message>
 </context>
 </TS>

@@ -5,11 +5,11 @@
     <name></name>
     <message id="privacyswitch_name">
         <source>Privacy Switch</source>
-        <translation type="unfinished">Privacy Switch</translation>
+        <translation>Interruptor de privacidad</translation>
     </message>
     <message id="privacyswitch_description">
         <source>Detect privacy switch state</source>
-        <translation type="unfinished">Detect privacy switch state</translation>
+        <translation>Detectar el estado del interruptor de privacidad</translation>
     </message>
 </context>
 </TS>

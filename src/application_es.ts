@@ -121,7 +121,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_call_screening_service">
         <source>Please set Situations as a call screening application.</source>
-        <translation type="unfinished">Please set Situations as a call screening application.</translation>
+        <translation>Por favor, configura Situations como aplicación de filtrado de llamadas.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
@@ -311,11 +311,11 @@ califique la app!</translation>
     </message>
     <message id="startup_type_boot">
         <source>After boot</source>
-        <translation type="unfinished">After boot</translation>
+        <translation>Tras el arranque</translation>
     </message>
     <message id="startup_type_any">
         <source>At any time</source>
-        <translation type="unfinished">At any time</translation>
+        <translation>En cualquier momento</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
@@ -339,7 +339,7 @@ califique la app!</translation>
     </message>
     <message id="plugin_settings">
         <source>%1 Settings</source>
-        <translation type="unfinished">%1 Settings</translation>
+        <translation>%1 Ajustes</translation>
     </message>
     <message id="uninstall_feature">
         <source>Are you sure to uninstall feature: %1?</source>
@@ -403,83 +403,83 @@ califique la app!</translation>
     </message>
     <message id="icon">
         <source>Icon</source>
-        <translation type="unfinished">Icon</translation>
+        <translation>Icono</translation>
     </message>
     <message id="delay_milliseconds">
         <source>Delay (ms)</source>
-        <translation type="unfinished">Delay (ms)</translation>
+        <translation>Retraso (ms)</translation>
     </message>
     <message id="clear">
         <source>Clear</source>
-        <translation type="unfinished">Clear</translation>
+        <translation>Vaciar</translation>
     </message>
     <message id="icon_number">
         <source>Icon %1</source>
-        <translation type="unfinished">Icon %1</translation>
+        <translation>Icono %1</translation>
     </message>
     <message id="install_plugin">
         <source>Install %1</source>
-        <translation type="unfinished">Install %1</translation>
+        <translation>Instalar %1</translation>
     </message>
     <message id="uninstall_plugin">
         <source>Uninstall %1</source>
-        <translation type="unfinished">Uninstall %1</translation>
+        <translation>Desinstalar %1</translation>
     </message>
     <message id="purchase_plugin_price">
         <source>Purchase %1 %2</source>
-        <translation type="unfinished">Purchase %1 %2</translation>
+        <translation>Comprar %1 %2</translation>
     </message>
     <message id="action_stateful">
         <source>Action remembers previous state</source>
-        <translation type="unfinished">Action remembers previous state</translation>
+        <translation>La acción recuerda el estado anterior</translation>
     </message>
     <message id="action_stateless">
         <source>Action runs once</source>
-        <translation type="unfinished">Action runs once</translation>
+        <translation>La acción se ejecuta una vez</translation>
     </message>
     <message id="plugin_item_number">
         <source>%1 item %2</source>
-        <translation type="unfinished">%1 item %2</translation>
+        <translation>%1 elemento %2</translation>
     </message>
     <message id="action_add">
         <source>Add action</source>
-        <translation type="unfinished">Add action</translation>
+        <translation>Añadir acción</translation>
     </message>
     <message id="condition_add">
         <source>Add condition</source>
-        <translation type="unfinished">Add condition</translation>
+        <translation>Añadir condición</translation>
     </message>
     <message id="back">
         <source>Back</source>
-        <translation type="unfinished">Back</translation>
+        <translation>Atrás</translation>
     </message>
     <message id="menu">
         <source>Menu</source>
-        <translation type="unfinished">Menu</translation>
+        <translation>Menú</translation>
     </message>
     <message id="situation_activate">
         <source>Activate situation</source>
-        <translation type="unfinished">Activate situation</translation>
+        <translation>Activar situación</translation>
     </message>
     <message id="situation_deactivate">
         <source>Deactivate situation</source>
-        <translation type="unfinished">Deactivate situation</translation>
+        <translation>Desactivar situación</translation>
     </message>
     <message id="situation_settings">
         <source>Situation settings</source>
-        <translation type="unfinished">Situation settings</translation>
+        <translation>Configuración de situaciones</translation>
     </message>
     <message id="situation_add">
         <source>Add situation</source>
-        <translation type="unfinished">Add situation</translation>
+        <translation>Añadir situación</translation>
     </message>
     <message id="welcome1_accessible">
         <source>Welcome to the Situations application!</source>
-        <translation type="unfinished">Welcome to the Situations application!</translation>
+        <translation>¡Bienvenido a la aplicación Situations!</translation>
     </message>
     <message id="welcome2_accessible">
         <source>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
-        <translation type="unfinished">This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</translation>
+        <translation>Esta aplicación te permite automatizar el comportamiento de tu dispositivo mediante la definición de «situaciones», es decir, qué sucede y cuándo. Con estas situaciones puedes, por ejemplo, asegurarte de que tu teléfono permanezca en silencio durante las reuniones o por la noche, o hacer que se abra tu reproductor de música favorito al conectar los auriculares.</translation>
     </message>
     <message id="welcome4_accessible">
         <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>

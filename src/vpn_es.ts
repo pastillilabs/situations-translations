@@ -5,11 +5,11 @@
     <name></name>
     <message id="vpn_name">
         <source>VPN</source>
-        <translation type="unfinished">VPN</translation>
+        <translation>VPN</translation>
     </message>
     <message id="vpn_description">
         <source>VPN setting</source>
-        <translation type="unfinished">VPN setting</translation>
+        <translation>Configuración de VPN</translation>
     </message>
 </context>
 </TS>

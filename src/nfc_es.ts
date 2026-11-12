@@ -21,11 +21,11 @@
     </message>
     <message id="nfc_virtual_tag">
         <source>Virtual tag</source>
-        <translation type="unfinished">Virtual tag</translation>
+        <translation>Etiqueta virtual</translation>
     </message>
     <message id="nfc_turn_on_nfc">
         <source>Turn on NFC</source>
-        <translation type="unfinished">Turn on NFC</translation>
+        <translation>Activar NFC</translation>
     </message>
 </context>
 </TS>
