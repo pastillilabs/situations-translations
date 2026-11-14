@@ -413,6 +413,10 @@ the app!</translation>
         <source>Clear</source>
         <translation>Clear</translation>
     </message>
+    <message id="restore">
+        <source>Restore</source>
+        <translation>Restore</translation>
+    </message>
     <message id="icon_number">
         <source>Icon %1</source>
         <translation>Icon %1</translation>

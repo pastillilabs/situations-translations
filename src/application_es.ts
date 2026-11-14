@@ -413,6 +413,10 @@ califique la app!</translation>
         <source>Clear</source>
         <translation>Vaciar</translation>
     </message>
+    <message id="restore">
+        <source>Restore</source>
+        <translation type="unfinished">Restore</translation>
+    </message>
     <message id="icon_number">
         <source>Icon %1</source>
         <translation>Icono %1</translation>

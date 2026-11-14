@@ -413,6 +413,10 @@ appen!</translation>
         <source>Clear</source>
         <translation>Rensa</translation>
     </message>
+    <message id="restore">
+        <source>Restore</source>
+        <translation type="unfinished">Restore</translation>
+    </message>
     <message id="icon_number">
         <source>Icon %1</source>
         <translation>Ikon %1</translation>

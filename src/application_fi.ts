@@ -413,6 +413,10 @@ sovelluksen!</translation>
         <source>Clear</source>
         <translation>Tyhjennä</translation>
     </message>
+    <message id="restore">
+        <source>Restore</source>
+        <translation>Palautus</translation>
+    </message>
     <message id="icon_number">
         <source>Icon %1</source>
         <translation>Kuvake %1</translation>
