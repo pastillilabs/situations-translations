@@ -529,6 +529,10 @@ sovelluksen!</translation>
         <source>Startup</source>
         <translation>Sovelluksen käynnistys</translation>
     </message>
+    <message id="execute">
+        <source>Execute</source>
+        <translation>Suorita</translation>
+    </message>
     <message id="startup_type">
         <source>Type</source>
         <translation>Tyyppi</translation>

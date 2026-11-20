@@ -529,6 +529,10 @@ califique la app!</translation>
         <source>Startup</source>
         <translation type="unfinished">Startup</translation>
     </message>
+    <message id="execute">
+        <source>Execute</source>
+        <translation type="unfinished">Execute</translation>
+    </message>
     <message id="startup_type">
         <source>Type</source>
         <translation type="unfinished">Type</translation>

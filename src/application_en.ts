@@ -529,6 +529,10 @@ the app!</translation>
         <source>Startup</source>
         <translation>Startup</translation>
     </message>
+    <message id="execute">
+        <source>Execute</source>
+        <translation>Execute</translation>
+    </message>
     <message id="startup_type">
         <source>Type</source>
         <translation>Type</translation>
