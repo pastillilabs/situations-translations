@@ -40,7 +40,7 @@
     </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
-        <translation>Por favor, active ubicación en ajustes del sistema</translation>
+        <translation>Por favor, active los servicios de ubicación en ajustes del sistema</translation>
     </message>
 </context>
 </TS>

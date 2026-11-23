@@ -9,7 +9,7 @@
     </message>
     <message id="flightmode_description">
         <source>Airplane mode setting</source>
-        <translation>Ajuste Modo Avión</translation>
+        <translation>Ajustes del Modo Avión</translation>
     </message>
 </context>
 </TS>

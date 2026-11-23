@@ -9,7 +9,7 @@
     </message>
     <message id="volumeringtone_description">
         <source>Ringtone volume setting</source>
-        <translation>Ajuste del volumen del tono de llamada</translation>
+        <translation>Ajustes del volumen del tono de llamada</translation>
     </message>
 </context>
 </TS>

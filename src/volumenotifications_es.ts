@@ -9,7 +9,7 @@
     </message>
     <message id="volumenotifications_description">
         <source>Notifications volume setting</source>
-        <translation>Ajuste del volumen de notificaciones</translation>
+        <translation>Ajustes del volumen de las notificaciones</translation>
     </message>
 </context>
 </TS>

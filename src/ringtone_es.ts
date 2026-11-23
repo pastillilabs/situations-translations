@@ -9,7 +9,7 @@
     </message>
     <message id="ringtone_description">
         <source>Ringtone setting</source>
-        <translation>Ajuste de tono de llamada</translation>
+        <translation>Ajustes del tono de llamada</translation>
     </message>
 </context>
 </TS>

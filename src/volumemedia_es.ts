@@ -9,7 +9,7 @@
     </message>
     <message id="volumemedia_description">
         <source>Media volume setting</source>
-        <translation>Ajuste del volumen multimedia</translation>
+        <translation>Ajustes del volumen de multimedia</translation>
     </message>
 </context>
 </TS>

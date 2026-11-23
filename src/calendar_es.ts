@@ -9,7 +9,7 @@
     </message>
     <message id="calendar_description">
         <source>Simple calendar event detection</source>
-        <translation>Detección de eventos de calendario simple</translation>
+        <translation>Detección simple de eventos de calendario</translation>
     </message>
     <message id="calendarpro_name">
         <source>Calendar Pro</source>

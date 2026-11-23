@@ -9,7 +9,7 @@
     </message>
     <message id="volumealarm_description">
         <source>Alarm volume setting</source>
-        <translation>Ajuste del volumen de la alarma</translation>
+        <translation>Ajustes del volumen de la alarma</translation>
     </message>
 </context>
 </TS>

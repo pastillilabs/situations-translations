@@ -9,7 +9,7 @@
     </message>
     <message id="callstate_description">
         <source>Current call state</source>
-        <translation>Estado de llamada actual</translation>
+        <translation>Estado actual de llamada</translation>
     </message>
     <message id="callstate_none">
         <source>None</source>

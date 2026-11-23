@@ -9,7 +9,7 @@
     </message>
     <message id="donotdisturb_description">
         <source>Do Not Disturb setting</source>
-        <translation>Ajuste No Molestar</translation>
+        <translation>Ajustes del modo No Molestar</translation>
     </message>
 </context>
 </TS>

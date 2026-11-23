@@ -9,7 +9,7 @@
     </message>
     <message id="ambience_description">
         <source>Ambience setting</source>
-        <translation>Ajuste der ambiente</translation>
+        <translation>Ajuste del ambiente</translation>
     </message>
 </context>
 </TS>

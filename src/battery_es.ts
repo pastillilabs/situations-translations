@@ -9,7 +9,7 @@
     </message>
     <message id="battery_description">
         <source>Battery level</source>
-        <translation>Nivel de bateria</translation>
+        <translation>Nivel de batería</translation>
     </message>
 </context>
 </TS>

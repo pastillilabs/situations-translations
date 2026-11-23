@@ -9,7 +9,7 @@
     </message>
     <message id="tethering_description">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>Ajuste para compartir Internet (punto de acceso)</translation>
+        <translation>Ajustes para compartir Internet (punto de acceso)</translation>
     </message>
 </context>
 </TS>

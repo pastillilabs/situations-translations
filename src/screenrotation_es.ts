@@ -9,7 +9,7 @@
     </message>
     <message id="screenrotation_description">
         <source>Screen auto rotation setting</source>
-        <translation>Ajuste der Autorotación de la pantalla</translation>
+        <translation>Ajustes de la autorotación de la pantalla</translation>
     </message>
 </context>
 </TS>

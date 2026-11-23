@@ -17,7 +17,7 @@
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation>Ficheros existentes van a ser sobrescritos!</translation>
+        <translation>¡Ficheros existentes van a ser sobrescritos!</translation>
     </message>
     <message id="import">
         <source>Import</source>
@@ -29,7 +29,7 @@
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation>Los datos actuales de la aplicación van a ser sobrescritos! Requiere conexión a internet  para una correcta importación!</translation>
+        <translation>¡Los datos actuales de la aplicación van a ser sobrescritos! ¡Requiere conexión a internet  para una correcta importación!</translation>
     </message>
     <message id="situation_new">
         <source>Create new situation</source>
@@ -105,7 +105,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_query_default_assistant">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation>Para utilizar esta función, se debe seleccionar Situactions como la aplicación asistente predeterminada en la configuración del sistema.</translation>
+        <translation>Para utilizar esta función, se debe seleccionar Situations como la aplicación asistente predeterminada en la configuración del sistema.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
@@ -113,7 +113,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_query_notification_listener">
         <source>Please allow Situations to monitor notifications.</source>
-        <translation>Permita que Situaciones supervise las notificaciones.</translation>
+        <translation>Permita que Situations supervise las notificaciones.</translation>
     </message>
     <message id="permission_query_location_services">
         <source>To use this feature, location services must be enabled in system settings.</source>
@@ -121,7 +121,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="permission_call_screening_service">
         <source>Please set Situations as a call screening application.</source>
-        <translation>Por favor, configura Situations como aplicación de filtrado de llamadas.</translation>
+        <translation>Por favor, configure Situations como aplicación de filtrado de llamadas.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
@@ -195,11 +195,11 @@ La aplicación Situations utiliza la información de ubicación recopilada local
         <source>Please rate
 the app!</source>
         <translation>Por favor,
-califique la app!</translation>
+¡evalúe la app!</translation>
     </message>
     <message id="donate">
         <source>Please donate!</source>
-        <translation>Por favor, done!</translation>
+        <translation>¡Por favor, dona!</translation>
     </message>
     <message id="features">
         <source>Features</source>
@@ -207,7 +207,7 @@ califique la app!</translation>
     </message>
     <message id="situations_update_hint">
         <source>Please update the application first!</source>
-        <translation>Por favor, primero actualice la aplicación!</translation>
+        <translation>¡Por favor, primero actualice la aplicación!</translation>
     </message>
     <message id="application_locale">
         <source>Locale</source>
@@ -327,7 +327,7 @@ califique la app!</translation>
     </message>
     <message id="plugins_name">
         <source>Get all plugins!!</source>
-        <translation>Obtenga todos los plugins!!</translation>
+        <translation>¡¡Obtenga todos los plugins!!</translation>
     </message>
     <message id="plugins_description">
         <source>***</source>
@@ -355,7 +355,7 @@ califique la app!</translation>
     </message>
     <message id="remove_condition">
         <source>Are you sure to remove condition: %1?</source>
-        <translation>¿Está seguro de desinstalar la concición: %1?</translation>
+        <translation>¿Está seguro de desinstalar la condición: %1?</translation>
     </message>
     <message id="remove_action">
         <source>Are you sure to remove action: %1?</source>
@@ -415,7 +415,7 @@ califique la app!</translation>
     </message>
     <message id="restore">
         <source>Restore</source>
-        <translation type="unfinished">Restore</translation>
+        <translation>Restaurar</translation>
     </message>
     <message id="icon_number">
         <source>Icon %1</source>
@@ -487,23 +487,23 @@ califique la app!</translation>
     </message>
     <message id="welcome4_accessible">
         <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>
-        <translation type="unfinished">Lets set up some default situations next. You can customize them later to better suit your individual needs.</translation>
+        <translation>A continuación, vamos a configurar algunas situaciones predeterminadas. Más adelante, podrá personalizarlas para que se ajusten mejor a sus necesidades particulares.</translation>
     </message>
     <message id="welcome5_accessible">
         <source>Choose your defaults</source>
-        <translation type="unfinished">Choose your defaults</translation>
+        <translation>Elija sus opciones predeterminadas</translation>
     </message>
     <message id="welcome6_accessible">
         <source>Now you&apos;re all set up! We wish you happy situations!</source>
-        <translation type="unfinished">Now you&apos;re all set up! We wish you happy situations!</translation>
+        <translation>¡Ya lo tiene todo listo! ¡Le deseamos felices &quot;situaciones&quot;!</translation>
     </message>
     <message id="close">
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Cerrar</translation>
     </message>
     <message id="filter_milliseconds">
         <source>Filter (ms)</source>
-        <translation type="unfinished">Filter (ms)</translation>
+        <translation>Filtrar (ms)</translation>
     </message>
     <message id="note">
         <source>Note!</source>
@@ -515,27 +515,27 @@ califique la app!</translation>
     </message>
     <message id="background_service">
         <source>Background service</source>
-        <translation type="unfinished">Background service</translation>
+        <translation>Servicio en segundo plano</translation>
     </message>
     <message id="daemon_install">
         <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</source>
-        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</translation>
+        <translation>Es necesario instalar el iniciador de servicios en segundo plano. Primero, permita la instalación de software de fuentes desconocidas en la configuración del dispositivo y luego continúe. Reinicie la aplicación o el dispositivo si fuera necesario.</translation>
     </message>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
-        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
+        <translation>ADVERTENCIA: El servicio en segundo plano se ejecutará con privilegios de root. ¡Proceda bajo su propia responsabilidad!</translation>
     </message>
     <message id="startup">
         <source>Startup</source>
-        <translation type="unfinished">Startup</translation>
+        <translation>Arranque</translation>
     </message>
     <message id="execute">
         <source>Execute</source>
-        <translation type="unfinished">Execute</translation>
+        <translation>Ejecutar</translation>
     </message>
     <message id="startup_type">
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Tipo</translation>
     </message>
 </context>
 </TS>
